@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="Mavenproj25.Mavenproj25.MultiTabsGetlinksName"/>
+      <class name="Mavenproj25.Mavenproj25.Multiplewindows"/>
+      <class name="Mavenproj25.Mavenproj25.flipkart"/>
+      <class name="Mavenproj25.Mavenproj25.Actionclass2"/>
+      <class name="Mavenproj25.Mavenproj25.Actionclass"/>
+      <class name="Mavenproj25.Mavenproj25.Javascriptdemo"/>
+      <class name="Mavenproj25.Mavenproj25.MultipleTabs"/>
+      <class name="Mavenproj25.Mavenproj25.Crossbrowser"/>
+      <class name="Mavenproj25.Mavenproj25.isenabled"/>
+      <class name="Mavenproj25.Mavenproj25.Screenshotss"/>
+      <class name="Mavenproj25.Mavenproj25.Sikuliupload"/>
+      <class name="Mavenproj25.Mavenproj25.DataProvider"/>
+      <class name="Mavenproj25.Mavenproj25.getTitleUrl"/>
+      <class name="Mavenproj25.Mavenproj25.AppTest"/>
+      <class name="Mavenproj25.Mavenproj25.SikuliYoutube"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
